@@ -4,5 +4,5 @@ Jason.Yu
 History
 ==============
 2014.05.13  
-Desrc: Autoinstall cobbler scripts   
-Script: autoinstall_cobbler.sh 
+Description : Autoinstall cobbler scripts   
+Script : autoinstall_cobbler.sh 
